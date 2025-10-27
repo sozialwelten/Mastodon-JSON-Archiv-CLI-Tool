@@ -1,0 +1,6 @@
+# Mastodon Archive
+outbox.json
+*.json
+
+# Temp files
+*.tmp
