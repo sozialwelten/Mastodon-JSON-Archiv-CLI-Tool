@@ -18,8 +18,8 @@ Ein einfaches PHP CLI-Tool zum Durchsuchen und Anzeigen von Mastodon-Archiven.
 ## Installation
 
 ```bash
-git clone <dein-repo-url>
-cd <repo-name>
+git clone https://github.com/sozialwelten/Mastodon-JSON-Archiv-CLI-Tool
+cd Mastodon-JSON-Archiv-CLI-Tool
 ```
 
 ## Verwendung
